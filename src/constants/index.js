@@ -1,0 +1,16 @@
+export const IMAGES = {
+  LOAD: 'IMAGES_LOAD',
+  DELETE: 'IMAGES_DELETE',
+  LOAD_SUCCESS: 'IMAGES_LOAD_SUCCESS',
+  LOAD_FAIL: 'IMAGES_LOAD_FAIL',
+};
+
+export const HISTORY = {
+  ADD: 'ADD_IMAGE',
+  DELETE: 'DELETE_IMAGE',
+};
+
+export const LOADER = {
+  HIDE: 'HIDE_LOADER',
+  SHOW: 'SHOW_LOADER'
+};
